@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="aajedh" label="Aajedh" language="en" table="karan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>aajedh</element>
+            <help/>
+            <hint/>
+            <label>Aajedh</label>
+            <language>en</language>
+            <name>karan</name>
+            <plural>Aajedhs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 20:20:19</sys_created_on>
+            <sys_id>e97940c55333101071a3ddeeff7b1287</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Aajedh</sys_name>
+            <sys_package display_value="glob1" source="75b804855333101071a3ddeeff7b126b">75b804855333101071a3ddeeff7b126b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="glob1">75b804855333101071a3ddeeff7b126b</sys_scope>
+            <sys_update_name>sys_documentation_karan_aajedh_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 20:20:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
